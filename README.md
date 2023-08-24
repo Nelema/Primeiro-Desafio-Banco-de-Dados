@@ -21,3 +21,4 @@
 ##Os EMPREGADOS podem  estar vinculados a mais de um projeto, e um projeto tem mais de um empregado. 
 ##  O  empregado pode possuir DEPENDENTE com as seguintes atributos; nome, sexo, data nascimento, parentesco, essn.
 
+Diagrama Relacional (https://drive.google.com/file/d/1vemLj1gq3TmCo8X30ZFkui2RpNSQSzPr/view?usp=sharing)
